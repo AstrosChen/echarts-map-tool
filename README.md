@@ -1,3 +1,3 @@
 # echarts-map-tool
 
-A tool that can generate vector data of echarts China
+A Chinese vector data generation tool for echarts
